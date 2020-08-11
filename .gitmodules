@@ -1,0 +1,3 @@
+[submodule "applications/luci-app-clash"]
+	path = applications/luci-app-clash
+	url = https://github.com/frainzy1477/luci-app-clash.git
